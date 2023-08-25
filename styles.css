@@ -1,0 +1,64 @@
+body {
+    margin:0px;
+    padding:0px;
+    font-family:Arial,sans-serif;
+    
+}
+h1{
+    margin:0px;
+    padding:0px;
+
+}
+h2{
+    margin:0px;
+    padding:0px;
+    color:maroon;
+}
+h3{
+    margin:0px;
+    padding:0px;
+    color:teal;
+}
+p{
+    margin:0px;
+    padding:0px;
+    color:black;
+}
+header {
+    margin:20px;
+    text-align:center;
+}
+nav{
+    margin:20px;
+}
+section{
+    margin:20px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+nav li{
+    margin: 0 10px;
+}
+a {
+    text-decoration: none;
+    color:blue;
+}
+section h2{
+    margin-bottom: 10px;
+}
+.certificate {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+.educations {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin:10px 0;
+}
+.about {
+    text-emphasis-color:bisque;
+}
